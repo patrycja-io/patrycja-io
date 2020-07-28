@@ -1,5 +1,5 @@
 ### Hi there I,m Patrycja   👋
-[![Patrycja Tyra](/Users/patrycjatyra/Documents/REPOS/README/patrycja-io/My Post- details.png)](https://www.patrycja.io)
+![](patrycja.png)(https://www.patrycja.io)
 
 
 I'm a fullstack developer and tech influencer 👾 who changed her career from being a music journalist 🎶 .  
