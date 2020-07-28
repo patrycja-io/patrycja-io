@@ -1,5 +1,5 @@
 ### Hi there I,m Patrycja   👋
-![](patrycja.png)(https://www.patrycja.io)
+
 
 
 I'm a fullstack developer and tech influencer 👾 who changed her career from being a music journalist 🎶 .  
