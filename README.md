@@ -1,4 +1,4 @@
-### Hi there I,m Patrycja   👋
+### Hi there I'm Patrycja   👋
 ![](https://github.com/patrycja-io/patrycja-io/blob/fcec5afcebf4892437d14d43907fb9f4b9c3fb2c/patrycja.png)
 
 
