@@ -3,7 +3,7 @@
 
 
 I'm a fullstack developer and tech influencer 👾 who changed her career from being a music journalist 🎶 .  
-I am passionate about Javascript and React at the front and Django at the back. 💻💥
+I am passionate about Javascript and React 💻💥
 I am happy to share my cool story!  DM me at me@patrycja.io  📜🗣 #womanintech
 
 
