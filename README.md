@@ -8,7 +8,7 @@ I am happy to share my cool story!  DM me at me@patrycja.io  📜🗣 #womaninte
 
 
 - 🔭 I’m currently working on E-commerce shop and mobile app
-- 🌱 I’m currently learning : React native 
+- 🌱 I’m currently learning : 
 - 👯 I’m looking to collaborate on some mobile development
 - 📫 How to reach me: me@patrycja.io
 - 😄 Pronouns: she/her 
