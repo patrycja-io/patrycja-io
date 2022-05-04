@@ -5,7 +5,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=patrycja-io.patrycja-io)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on more JavasScript Games 
 - 🌱 I’m currently learning : TypeScript and GraphQL
