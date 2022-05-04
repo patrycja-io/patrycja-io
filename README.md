@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on more JavasScript Games 
 - 🌱 I’m currently learning : TypeScript and GraphQL
 - 👯 I’m looking to collaborate with likeminded developers and tech companies
 - 💬 Ask me about everything 
