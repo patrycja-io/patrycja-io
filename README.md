@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Trish Tyra ( Patrycja Tyra )
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=patrycja-io.patrycja-io)
