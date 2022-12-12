@@ -6,8 +6,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=patrycja-io.patrycja-io)
 
 
-- 🔭 I’m currently working on more JavasScript Games 
-- 🌱 I’m currently learning : TypeScript and GraphQL
+- 🔭 I’m currently working on e-commerce platforms 
+- 🌱 I’m currently learning : TypeScript and Next.js
 - 👯 I’m looking to collaborate with likeminded developers and tech companies
 - 💬 Ask me about everything 
 - 📫 How to reach me: me@patrycja.io
