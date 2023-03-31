@@ -7,12 +7,11 @@
 
 
 - 🔭 I’m currently working on e-commerce platforms 
-- 🌱 I’m currently learning : TypeScript and Next.js
+- 🌱 I’m currently learning : Strapi GraphQL, AWS Solution Architect
 - 👯 I’m looking to collaborate with likeminded developers and tech companies
 - 💬 Ask me about everything 
 - 📫 How to reach me: me@patrycja.io
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrycja-io&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrycja-io&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
