@@ -16,8 +16,8 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrycja-io&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=synthwave" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrycja-io&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=synthwave"/>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrycja-io&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrycja-io&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10"/>
  
  
 
