@@ -22,3 +22,5 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycja-io&repo=CurrencyExchanger)](https://patrycja-io.github.io/CurrencyExchanger"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycja-io&repo=CurrencyExchanger)](https://patrycja-io.github.io/CurrencyExchanger"/>
  </p>
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycja-io&repo=CurrencyExchanger)](https://github.com/anuraghazra/github-readme-stats)
