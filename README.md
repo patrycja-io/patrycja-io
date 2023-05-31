@@ -16,6 +16,6 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrycja-io&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=DEG,e81cff,40c9ff&title_color=000000" />
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrycja-io&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=DEG,e81cff,40c9ff&title_color=000000&text_color=000000" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrycja-io&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=DEG,e81cff,40c9ff&title_color=000000"/>
  
