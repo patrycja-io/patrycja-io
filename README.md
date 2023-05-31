@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrycja-tyra-77291524)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/patrycja_io)
 
-## 🔭 I’m currently working on: E-commerce platforms 
-## 🌱 I’m currently learning : AWS Solution Architect
+[]🔭 I’m currently working on: E-commerce platforms 
+ 🌱 I’m currently learning : AWS Solution Architect
 ## 👯 I’m looking to collaborate with likeminded developers and tech companies
 ## 💬 Ask me about: Generative AI
 ## 📫 How to reach me: me@patrycja.io
