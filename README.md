@@ -17,7 +17,7 @@
 
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrycja-io&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrycja-io&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=DEG,e81cff,40c9ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrycja-io&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=DEG,e81cff,40c9ff&title_color=000000"/>
  
  
 
