@@ -15,5 +15,7 @@
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrycja-io&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=synthwave" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrycja-io&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=synthwave"/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycja-ioa&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
   </p>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycja-ioa&repo=github-readme-stats)]([https://github.com/patrycja-io/github-readme-stats](https://patrycja-io.github.io/CurrencyExchanger/))
