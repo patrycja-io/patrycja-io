@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrycja-tyra-77291524)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/patrycja_io)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=patrycja-io.patrycja-io)
+
 
 
 - 🔭 I’m currently working on e-commerce platforms 
