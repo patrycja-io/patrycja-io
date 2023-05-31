@@ -18,7 +18,7 @@
 
  
   <p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycja-io&repo=github-readme-stats)](https://patrycja-io.github.io/CurrencyExchanger"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycja-io&repo=github-readme-stats)](https://patrycja-io.github.io/CurrencyExchanger"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycja-io&repo=github-readme-stats)](https://patrycja-io.github.io/CurrencyExchanger"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycja-io&repo=CurrencyExchanger)](https://patrycja-io.github.io/CurrencyExchanger"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycja-io&repo=CurrencyExchanger)](https://patrycja-io.github.io/CurrencyExchanger"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycja-io&repo=CurrencyExchanger)](https://patrycja-io.github.io/CurrencyExchanger"/>
  </p>
