@@ -18,7 +18,7 @@
 
   </p>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycja-ioa&repo=github-readme-stats)]([https://github.com/patrycja-io/github-readme-stats](https://patrycja-io.github.io/CurrencyExchanger/))
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycja-ioa&repo=github-readme-stats)]([https://github.com/patrycja-io/github-readme-stats](https://patrycja-io.github.io/CurrencyExchanger/))
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycja-ioa&repo=github-readme-stats)]([https://github.com/patrycja-io/github-readme-stats](https://patrycja-io.github.io/CurrencyExchanger/))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycja-ioa&repo=github-readme-stats)](https://patrycja-io.github.io/CurrencyExchanger/))
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycja-ioa&repo=github-readme-stats)](https://patrycja-io.github.io/CurrencyExchanger/))
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycja-ioa&repo=github-readme-stats)](https://patrycja-io.github.io/CurrencyExchanger/))
 
