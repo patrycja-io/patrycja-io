@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on e-commerce platforms 
-- 🌱 I’m currently learning : Strapi GraphQL, AWS Solution Architect
+- 🌱 I’m currently learning : AWS Solution Architect
 - 👯 I’m looking to collaborate with likeminded developers and tech companies
 - 💬 Ask me about AI
 - 📫 How to reach me: me@patrycja.io
